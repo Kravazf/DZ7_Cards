@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+    background-color: lightgray;
+}
+
+.wropper {
+    max-width: 700px;
+    margin: 50px auto;
+}
+
+.card {
+    background-color: #ccc;
+    width: 200px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    display: inline-block;
+}
+
+
+.card_img {
+    width: 130px;
+    height: 130px;
+    margin: 0 35px;
+    border-radius: 10%;
+}
+
+h1 {
+    width: 200px;
+    margin-top: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 22px;
+    overflow: hidden;
+}
+
+p {
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 18px;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 400;
+    overflow: hidden;
+}
+
+
